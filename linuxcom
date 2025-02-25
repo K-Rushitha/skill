@@ -1,0 +1,92 @@
+
+1  sudo apt update
+    2  clear
+    3  cd /daa/
+    4  ls
+    5  pwd
+    6  cd /opt/
+    7  ls
+    8  ls -la
+    9  cd ..
+   10  mkdir daytwo
+   11  cd ..
+   12  pwd
+   13  /desktop/daa
+   14  clear
+   15  pwd
+   16  ls
+   17  mkdir daytwo
+   18  touch file1 file2 file3.txt
+   19  cd daytwo
+   20  touch file4
+   21  pwd
+   22  mkdir daytwo
+   23  ls
+   24  cd daytwo
+   25  ls
+   26  cd ..
+   27  file3 .. /daytwo/
+   28  file3.txt  .. /daytwo/
+   29  mv file3.txt  .. /daytwo/
+   30  mv file3.txt  daytwo/
+   31  cd daytwo
+   32  ls
+   33  mkdir dir2
+   34  cp file4 dir2
+   35  ls
+   36  cd dir2
+   37  ls
+   38  cd ..
+   39  rm file4
+   40  vim file5
+   41  cat file5
+   42  echo "the day was good"
+   43  less file5
+   44  man ls
+   45  uname
+   46  whoami
+   47  tar -cvf dir2.tar dir2
+   48  ls
+   49  cat file5
+   50  grep -i life file5
+   51  cat file5 |grep -i Lif
+   52  head file5
+   53  head -1 file5
+   54  tail -1 file5
+   55  tail -n 1 file5
+   56  tail -n 2 file5
+   57  vim file5
+   58  sort file5
+   59  tar -xvf dir2
+   60  ssh
+   61  ps
+   62  df
+   63  mount
+   64  ls -lr
+   65  chmod 777 file5
+   66  ls -lr
+   67  ifconfig
+   68  ping www.google.com
+   69  sudo s
+   70  sudo su
+   71  history
+   72  apt install ncal
+   73  cal
+   74  passwd file5
+   75  pwd
+   76  cd daytwo
+   77  passwd file5
+   78  ls
+   79  useradd rushi
+   80  su rushi
+   81  useradd file3
+   82  ls -lr
+   83  useradd rushi
+   84  passwd fine
+   85  man useradd
+   86  useradd rushitha
+   87  chmod +x file3.txt
+   88  useradd rushi
+   89  ls -l
+   90  exit
+   91  history
